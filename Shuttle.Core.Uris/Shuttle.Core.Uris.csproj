@@ -13,12 +13,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Shuttle.Core.Contract" Version="21.0.0-alpha" />
+    <PackageReference Include="Shuttle.Core.Contract" Version="21.0.1-beta" />
   </ItemGroup>
 
   <PropertyGroup>
     <Description>Uri infrastructure utilities.</Description>
-    <Version>21.0.0-alpha</Version>
+    <Version>21.0.1-beta</Version>
     <PackageProjectUrl>https://github.com/shuttle/Shuttle.Core.Uris</PackageProjectUrl>
     <RepositoryUrl>https://github.com/shuttle/Shuttle.Core.Uris.git</RepositoryUrl>
     <PackageTags>shuttle</PackageTags>
