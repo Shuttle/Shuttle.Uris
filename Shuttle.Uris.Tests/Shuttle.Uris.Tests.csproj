@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shuttle.Core.Uris\Shuttle.Core.Uris.csproj" />
+    <ProjectReference Include="..\Shuttle.Uris\Shuttle.Uris.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
-﻿using Shuttle.Core.Contract;
+﻿using Shuttle.Contract;
 
-namespace Shuttle.Core.Uris;
+namespace Shuttle.Uris;
 
 public class QueryString : Dictionary<string, string>
 {
