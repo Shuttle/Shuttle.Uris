@@ -1,7 +1,7 @@
-# Shuttle.Core.Uris
+# Shuttle.Uris
 
-```
-PM> Install-Package Shuttle.Core.Uris
+```bash
+dotnet add package Shuttle.Uris
 ```
 
 Provides simple `System.Uri` infrastructure components.
