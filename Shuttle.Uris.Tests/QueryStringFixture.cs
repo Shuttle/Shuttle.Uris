@@ -1,7 +1,6 @@
-﻿using System;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
-namespace Shuttle.Core.Uris.Tests;
+namespace Shuttle.Uris.Tests;
 
 [TestFixture]
 public class QueryStringFixture
